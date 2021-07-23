@@ -1,5 +1,5 @@
 # Sudoku Solver in python.
-class Solver(object):
+class Solver:
     def __init__(self, board):
         self.board = board
 
